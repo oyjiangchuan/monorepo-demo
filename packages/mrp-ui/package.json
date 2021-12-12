@@ -1,0 +1,33 @@
+{
+  "name": "mrp-ui",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "ouyangjiangchuan <1366325462@qq.com>",
+  "homepage": "https://github.com/oyjiangchuan/monorepo-demo",
+  "license": "ISC",
+  "private": true,
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oyjiangchuan/monorepo-demo.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/oyjiangchuan/monorepo-demo/issues"
+  },
+  "devDependencies": {
+    "chalk": "^5.0.0"
+  },
+  "dependencies": {
+    "mrp-utils": "1.0.0"
+  }
+}

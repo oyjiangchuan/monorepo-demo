@@ -1,0 +1,8 @@
+{
+  "packages": [
+    "packages/mrp-*"
+  ],
+  "version": "1.0.0",
+  "npmClient": "yarn",
+  "useWorkspaces": true
+}
